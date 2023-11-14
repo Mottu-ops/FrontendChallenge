@@ -56,4 +56,4 @@ Tecnologias obrigatórias:
 
 Envio da solução
 -------------------------
-Você deverá criar um fork deste repositório ou um novo repositóro, incluir o seu código fonte na pasta ``SRC`` e enviar para gente o link do seu repositório.
+Você deve criar um novo repositóro público, implementar a solução e enviar para gente o link do seu repositório.
