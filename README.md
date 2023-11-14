@@ -20,7 +20,6 @@ Na aplicação, será utilizada a API pública [rickandmortyapi](https://rickand
 ## REQUISITOS
 Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 * Buscar um personagem pelo nome;
-* Exibir mensagem de erro caso o personagem não exista;
 * Exibir informações mínimas sobre o(s) personagem(ns) caso ele(s) exista(m);
 * Registrar o personagem na lista de favoritos utilizando alguma biblioteca de controle de estado global (NgRx, Ngxs, Akita) ou utilizar os Subjects do RxJs;
 * O contador no topo da página deve ser atualizado dinamicamente em tempo real;
