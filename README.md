@@ -3,7 +3,7 @@
 <h1 align="center">Mottu Front-end Challenge</h1>
 
 Olá! 
-Primeiramente, parabéns por ter avançado ao desafio técnico para frontends da Mottu! 
+Primeiramente, parabéns por ter avançado ao desafio técnico para front-end da Mottu! 
 
 ## DESAFIO
 
