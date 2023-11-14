@@ -32,6 +32,7 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 * Utilizar o pipe async no contador dos favoritos no header;
 * Adicionar ao projeto a fonte personalizada que foi utilizada no prótotipo: [Google Fonts](https://fonts.google.com/share?selection.family=Creepster|Poppins);
 * Otimizar o NgFor;
+* Carregamento lento dos módulos das páginas;
 * Seja criativo. Você decide quais funcionalidades irá incluir além dos requisitos.
 
 ## HISTÓRIAS DE USUÁRIO
