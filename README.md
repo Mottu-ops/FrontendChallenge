@@ -33,6 +33,7 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 * Otimizar o uso de diretivas estruturais;
 * Carregamento lento dos módulos das páginas;
 * Layout responsivo;
+* Fazer o deploy da aplicação;
 * Seja criativo. Você decide quais funcionalidades irá incluir além dos requisitos;
 
 
