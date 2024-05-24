@@ -14,7 +14,7 @@ Primeiramente, parabéns por ter avançado ao desafio técnico para front-end da
 ## API
 Na aplicação, será utilizada a API pública [rickandmortyapi](https://rickandmortyapi.com/documentation/#introduction) para o consumo das requisições dos personagens, deve ser utilizado a abordagem REST.
 
-## PROTÓTIPO (Obrigatório)
+## PROTÓTIPO (OBRIGATÓRIO)
 [Link Figma](https://www.figma.com/file/c8xS5wew3KBVVY62BS2imT/.%F0%9F%94%93-%5BInterno%5D-Teste-t%C3%A9cnico?type=design&node-id=1%3A210&mode=design&t=vHzykxexPvSxZoFk-1) 
 
 ## REQUISITOS
