@@ -29,7 +29,7 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 
 ## DIFERENCIAL
 * Busca por nome: utilizar operadores do RxJs para deixar mais eficiente a pesquisa e fazer uma nova chamada na API para o filtro não ficar no front-end;
-* Utilizar o pipe async no contador dos favoritos no header;
+* Adicionar internacionzalição no projeto. 
 * Adicionar ao projeto a fonte personalizada que foi utilizada no prótotipo: [Google Fonts](https://fonts.google.com/share?selection.family=Creepster|Poppins);
 * Otimizar o uso de diretivas estruturais;
 * Carregamento lento dos módulos das páginas;
