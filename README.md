@@ -26,6 +26,7 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 * O contador no topo da página deve ser atualizado dinamicamente em tempo real;
 * Visualizar a lista de personagens favoritos;
 * Remover o personagem da lista de favoritos;
+* A listagem de personagens deve conter uma paginação;
 
 ## DIFERENCIAL
 * Busca por nome: utilizar operadores do RxJs para deixar mais eficiente a pesquisa e fazer uma nova chamada na API para o filtro não ficar no front-end;
