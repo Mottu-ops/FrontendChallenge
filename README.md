@@ -30,7 +30,7 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 
 ## DIFERENCIAL
 * Busca por nome: utilizar operadores do RxJs para deixar mais eficiente a pesquisa e fazer uma nova chamada na API para o filtro não ficar no front-end;
-* Adicionar internacionzalição no projeto. 
+* Adicionar internacionalização no projeto. 
 * Adicionar ao projeto a fonte personalizada que foi utilizada no prótotipo: [Google Fonts](https://fonts.google.com/share?selection.family=Creepster|Poppins);
 * Otimizar o uso de diretivas estruturais;
 * Carregamento lento dos módulos das páginas;
@@ -41,7 +41,7 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 
 ## HISTÓRIAS DE USUÁRIO
 1. Buscar personagem.
-2. Ao pesquisar um personagem, gostaria de ver nome, genero e sua foto(se existir) antes de decidir favoritá-lo.
+2. Ao pesquisar um personagem, gostaria de ver nome, espécie e sua foto (se existir) antes de decidir favoritá-lo.
 3. Ao pesquisar um personagem, gostaria de salvá-lo para que fique listado nos meus favoritos.
 4. Ao pesquisar um um personagem que não existe, gostaria de ser avisado que ele não existe.
 
@@ -52,7 +52,6 @@ Tecnologias obrigatórias:
 - **RxJs**
 
  Tecnologias opcionais:
-
 - **Angular Material**
 - **Bootstrap**
 - **NgRx**
