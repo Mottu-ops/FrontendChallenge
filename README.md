@@ -45,6 +45,13 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 3. Ao pesquisar um personagem, gostaria de salvá-lo para que fique listado nos meus favoritos.
 4. Ao pesquisar um um personagem que não existe, gostaria de ser avisado que ele não existe.
 
+## INSTRUÇÕES
+
+* O desafio é válido para diversos níveis, portanto não se preocupe se não conseguir resolver por completo.
+* A aplicação só será avaliada se estiver rodando, se necessário crie um passo a passo para isso.
+* Faça um clone do repositório em seu git pessoal para iniciar o desenvolvimento e não cite nada relacionado a Mottu.
+* Após teste realizado, favor encaminha-lo via Link abaixo: Link: [Formulário - Mottu](https://forms.office.com/pages/responsepage.aspx?id=tJOWeiUlFUGvgqknx7NW8yCRV67umA9NjmtPmSXxeBlUNFVXNkk4TjdTTElRUksxWTVIVlI3QjU1Ty4u&route=shorturl)
+
 ## :rocket: TECNOLOGIAS
 Tecnologias obrigatórias:
 - **Angular 13+** 
