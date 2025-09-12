@@ -52,7 +52,7 @@ Deve-se criar uma aplicação Angular, atendendo os seguintes requisitos:
 
 ## :rocket: TECNOLOGIAS
 Tecnologias obrigatórias:
-- **Angular 13+** 
+- **Angular 16+** 
 - **Typescript** 
 - **RxJs**
 
