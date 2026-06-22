@@ -1,0 +1,46 @@
+node_modules/
+dist/
+tmp/
+out-tsc/
+*.tsbuildinfo
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Angular
+# cache used by Angular CLI
+.angular/
+# environment files (keep example)
+/environment.*.ts
+!/environment.example.ts
+
+# Test
+coverage/
+reports/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Optional npm cache
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn
+.yarn/
+yarn-error.log
+
+# Compressed
+*.zip
+*.tar.gz
+*.7z
